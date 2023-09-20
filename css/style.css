@@ -12,19 +12,80 @@
 	vertical-align: middle;
 	display: inline-block;
 	margin: 18px 92px 17px 20px;
+	font-size: 13px;
 }
 .nav {
 	width: 400px;
 	display: inline-block;
 	vertical-align: middle;
+	font-size: 11px;
 }
 
 .nav-li {
 	display: inline-block;
 	margin-right: 27px;
 }
+.bold {
+	font-weight: bold;
+}
 .profile-icon {
 	display: inline-block;
 	vertical-align: middle;
 	margin-left: 40px;
 }
+
+/* section1 - body */
+
+.container {
+	width: 1160px;
+	padding-top: 75px;
+	margin: auto;
+}
+.lake {
+	width: 360px;
+	height: 350px;
+	position: relative;
+}
+.h2lake {
+	color: #202124;
+	font-weight: bold;
+	font-size: 24px;
+	margin-bottom: 40px;
+}
+.onlake {
+	width: 280px;
+	position: absolute;
+	top: 28px;
+	right: 40px;
+	bottom: 136px;
+	left: 40px;
+	color: #FFFFFF;
+}
+.belowlake {
+	width: 280px;
+	height: 38px;
+	color: #A6ADB4;
+	margin-top: 66px;
+	margin-right: 40px;
+	margin-bottom: 11px;
+	margin-left: 40px;
+	font-size: 13px;
+}
+.clock-icon {
+	width: 16px;
+	margin-right: 10px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 40px;
+	margin-bottom: 40px;
+}
+.time {
+	width: 43px;
+	height: 15px;
+	font-size: 13px;
+	display: inline-block;
+	vertical-align: middle;
+	color: #A6ADB4;
+	margin-bottom: 40px;
+}
+
