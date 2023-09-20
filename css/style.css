@@ -1,0 +1,30 @@
+/* header */
+.header {
+	position: fixed;
+}
+.logo {
+	width: 38px;
+	color: red;
+/*	margin-top: 18px;
+	margin-left: 20px;
+	margin-right:92px ;
+	margin-bottom: 17px;*/
+	vertical-align: middle;
+	display: inline-block;
+	margin: 18px 92px 17px 20px;
+}
+.nav {
+	width: 400px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.nav-li {
+	display: inline-block;
+	margin-right: 27px;
+}
+.profile-icon {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 40px;
+}
