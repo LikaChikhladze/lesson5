@@ -45,6 +45,7 @@
 	width: 360px;
 	height: 350px;
 	position: relative;
+	display: inline-block;
 }
 .h2lake {
 	color: #202124;
@@ -52,7 +53,7 @@
 	font-size: 24px;
 	margin-bottom: 40px;
 }
-.onlake {
+.on-lake {
 	width: 280px;
 	position: absolute;
 	top: 28px;
@@ -61,7 +62,7 @@
 	left: 40px;
 	color: #FFFFFF;
 }
-.belowlake {
+.below-lake {
 	width: 280px;
 	height: 38px;
 	color: #A6ADB4;
@@ -88,4 +89,17 @@
 	color: #A6ADB4;
 	margin-bottom: 40px;
 }
+
+/* section 1.2 */
+
+.umbrella {
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+/* section 2 */
+
+.
+
 
