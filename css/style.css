@@ -1,6 +1,7 @@
 /* header */
 .header {
 	position: fixed;
+	z-index: 30;
 }
 .logo {
 	width: 38px;
@@ -41,7 +42,7 @@
 	padding-top: 75px;
 	margin: auto;
 }
-.lake {
+.box1 {
 	width: 360px;
 	height: 350px;
 	position: relative;
@@ -53,7 +54,7 @@
 	font-size: 24px;
 	margin-bottom: 40px;
 }
-.on-lake {
+.text-on{
 	width: 280px;
 	position: absolute;
 	top: 28px;
@@ -62,7 +63,7 @@
 	left: 40px;
 	color: #FFFFFF;
 }
-.below-lake {
+.text-below {
 	width: 280px;
 	height: 38px;
 	color: #A6ADB4;
@@ -98,8 +99,52 @@
 	margin-right: 20px;
 }
 
-/* section 2 */
+/* section 2.1 */
 
-.
+.h2section2 {
+	width: 770px;
+	height: 20px;
+	font-size: 24px;
+	color: #202124;
+}
 
+.block1 {
+	width: 760px;
+	height: 900px;
+	display: inline-block;
+}
+.bridge {
+	width: 760px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+/*section 2.2*/
+
+.block2 {
+	width: 260px;
+	height: 896px;
+	margin-left: 40px;
+	display: inline-block;
+}
+.in-the-middle {
+	position: relative;
+}
+.text-inthemiddle {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	color: #66ff99;
+	font-weight: bold;
+}
+.block2container {
+	width: 360px;
+	margin-bottom: 102px;
+}
+.roadpic {
+	margin-bottom: 62px;
+}
+
+/* footer */
 
